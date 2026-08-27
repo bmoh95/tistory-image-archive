@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+  <rect width="1200" height="675" fill="#f7fafc"/>
+  <text x="70" y="120" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="58" font-weight="700" fill="#111827">핵심 흐름</text>
+  <rect x="80" y="190" width="300" height="290" rx="30" fill="#dbeafe" stroke="#94a3b8" stroke-width="3"/>
+  <circle cx="230" cy="265" r="40" fill="#fff" stroke="#334155" stroke-width="3"/>
+  <text x="218" y="282" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="46" font-weight="700" fill="#111827">1</text>
+  <text x="120" y="390" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="44" font-weight="700" fill="#111827">재고 확인</text>
+  <text x="430" y="335" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="62" fill="#475569">→</text>
+  <rect x="460" y="190" width="300" height="290" rx="30" fill="#dcfce7" stroke="#94a3b8" stroke-width="3"/>
+  <circle cx="610" cy="265" r="40" fill="#fff" stroke="#334155" stroke-width="3"/>
+  <text x="598" y="282" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="46" font-weight="700" fill="#111827">2</text>
+  <text x="500" y="370" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="42" font-weight="700" fill="#111827">신청 창구</text>
+  <text x="535" y="430" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="42" font-weight="700" fill="#111827">확인</text>
+  <text x="810" y="335" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="62" fill="#475569">→</text>
+  <rect x="840" y="190" width="300" height="290" rx="30" fill="#fef3c7" stroke="#94a3b8" stroke-width="3"/>
+  <circle cx="990" cy="265" r="40" fill="#fff" stroke="#334155" stroke-width="3"/>
+  <text x="978" y="282" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="46" font-weight="700" fill="#111827">3</text>
+  <text x="890" y="390" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="44" font-weight="700" fill="#111827">교과서 지원</text>
+  <text x="80" y="590" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="36" fill="#475569">지역별 안내를 먼저 확인하세요</text>
+</svg>
